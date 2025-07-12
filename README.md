@@ -43,10 +43,10 @@ flyctl auth signupc
 flyctl auth login
 
 # 拉取本项目文件
-git clone https://github.com/lushi78778/alist-fly.git
+git clone https://github.com/lushi78778/openlist-fly.git
 
 # 到项目文件目录
-cd alist-fly
+cd openlist-fly
 ```
 
 2.开始部署
