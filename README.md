@@ -1,6 +1,6 @@
-# ALIST-FLY
+# OPENLIST-FLY
 
-是 alist 服务的 fly.io 部署形式
+是 openlist 服务的 fly.io 部署形式
 
 ## alist
 

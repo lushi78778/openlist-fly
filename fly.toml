@@ -3,7 +3,7 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "lushi-alist-v2"
+app = "lushi-openlist-v2"
 primary_region = "hkg"
 kill_signal = "SIGINT"
 kill_timeout = "5s"
@@ -15,7 +15,7 @@ kill_timeout = "5s"
 
 [[mounts]]
   source = "data"
-  destination = "/opt/alist/data"
+  destination = "/opt/openlist/data"
   auto_extend_size_threshold = 0
 
 [http_service]
