@@ -22,5 +22,5 @@ EXPOSE 5244 5245
 # 设置容器的启动命令
 CMD ["/entrypoint.sh"]
 
-CMD ["openlist ./openlist admin set admin"]
+#CMD ["openlist ./openlist admin set admin"]
 
